@@ -47,12 +47,10 @@ The model was trained using a CNN architecture with multiple convolutional layer
 |--------|------------------|--------------------|
 | CNN    | 98.34%           | 96.3%             |
 
-## Demo Video
+## Demo
+Here is a screen recording demonstrating the project in action:
 
-<video width="100%" controls>
-  <source src="Screen_Recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎥 **[Download and Watch the Screen Recording](https://github.com/Dhruv610ag/Plant_Diease_Model_Predictor/raw/main/Screen_Recording.mp4)**
 
 
 ## How to Run the Project
