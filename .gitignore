@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore image files
+Home.jpg
+
+# Ignore pickle files
+*.pkl
+
+test/
+
+train/
+
+valid/
