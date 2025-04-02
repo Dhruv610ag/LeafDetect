@@ -50,7 +50,8 @@ The model was trained using a CNN architecture with multiple convolutional layer
 ## Demo
 Here is a screen recording demonstrating the project in action:
 
-[🎥 Watch the Screen Recording](Screen_Recording.mp4)
+🎥 **[Download and Watch the Screen Recording](https://github.com/Dhruv610ag/Plant_Diease_Model_Predictor/raw/main/Screen_Recording.mp4)**
+
 
 ## How to Run the Project
 1. Clone the repository:
