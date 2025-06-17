@@ -1,4 +1,4 @@
-# Plant Disease Detection
+# LeafDetect
 
 ## Overview
 This project focuses on detecting plant diseases using deep learning. A Convolutional Neural Network (CNN) model is trained to classify plant leaves into diseased or healthy categories based on image data.
